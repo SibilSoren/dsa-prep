@@ -1,4 +1,4 @@
-let input = 100;
+let input = 5;
 
 function factorial(val) {
   let result = 1;
